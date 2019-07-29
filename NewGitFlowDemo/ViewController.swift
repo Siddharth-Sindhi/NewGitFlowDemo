@@ -19,6 +19,9 @@ class ViewController: UIViewController {
         print("This is login feature branch")
     }
 
+    func signupFeature() {
+        print("This is signup feature for feature branch 2")
+    }
 
 }
 
