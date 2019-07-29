@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
+    func signupFeature() {
+        print("This is signup feature for feature branch 2")
+    }
 
 }
 
